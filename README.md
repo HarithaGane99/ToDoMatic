@@ -1,2 +1,2 @@
-# ToDoMatic
-To Do List Web Application
+# Todo App
+A simple Todo built using React.
